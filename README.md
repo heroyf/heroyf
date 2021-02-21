@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 恭喜你，捕捉到一只野生的程序猿
+- 😄 鹅厂运营开发工程师（啥都干）
+- 🌱 微信heroyf_970305
+
+# 汇总
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=heroyf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
