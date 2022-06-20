@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##  👋 About me
 - 😄 I'm currently working at Tencent
 - 🌱 wechat: heroyf_
-- <a href="https://www.instagram.com/heroyf/" target:"_blank">instagram</a>
+- [instagram](https://www.instagram.com/heroyf/ "instagram")
 
 ## 汇总✨
 
