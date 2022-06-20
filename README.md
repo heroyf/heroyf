@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##  恭喜你，捕捉到一只野生的程序猿 👋
-- 😄 鹅厂运营开发工程师（啥都干）
-- 🌱 微信heroyf_970305
+##  👋 About me
+- 😄 I'm currently working at Tencent
+- 🌱 wechat: heroyf_
+- 💬 instagram: https://www.instagram.com/heroyf/
 
 ## 汇总✨
 
