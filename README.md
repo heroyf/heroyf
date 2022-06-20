@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##  👋 About me
-- 😄 I'm currently working at Tencent
+- 💻 I'm currently working at Tencent
 - 🌱 wechat: heroyf_
 - [instagram](https://www.instagram.com/heroyf/ "instagram")
 
