@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 💻 working and photographing
 - 🌱 wechat: heroyf_
 - [instagram](https://www.instagram.com/heroyf/ "instagram")
+- [blog](https://heroyf.com)
 
 ## 汇总✨
 
